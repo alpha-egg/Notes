@@ -11,6 +11,7 @@ D=\begin{vmatrix}
 a_{11}&a_{12}&\cdots &a_{1n}\\
 a_{21}&a_{22}&\cdots &a_{2n} \\
 \vdots&\vdots&&\vdots \\
-a_{31}&a_{32}&a_{33}
-\end{vmatrix} =
+a_{31}&a_{32}&\cdots&a_{33}
+\end{vmatrix} = 
+
 $$
