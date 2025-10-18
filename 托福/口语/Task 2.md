@@ -24,9 +24,10 @@
 阅读 2 + 听力 8
 ### 阅读
 
-1.  The reading passage describes a notice about doing/ that +because
-
+1.  The reading passage describes a notice about doing/ that +because ...
+2. 
 
 ### 听力
 
-1. In the listening passage the man/w
+1. In the listening passage the man/woman thinks ... / agrees or disagrees with the statement that...
+2. The first reason she/he gives is that...
