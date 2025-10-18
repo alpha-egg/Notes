@@ -31,3 +31,8 @@
 
 1. In the listening passage the man/woman thinks ... / agrees or disagrees with the statement that...
 2. The first reason she/he gives is that...
+
+
+### 符号简写
+
+- expensive: 
