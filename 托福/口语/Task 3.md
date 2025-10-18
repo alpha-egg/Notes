@@ -33,6 +33,21 @@ Tips:
 R 15s  + L 45s
 R 2 L 8
 
-1. R: definition + exlplanation
-2. L: example 
-3. conclusion 可有可无
+1. R: definition + explanation
+2. transition
+3. L: example 
+4. conclusion 可有可无
+
+主干比细节更重要
+
+### Template
+
+In this set of materials, the reading passage introduces a definition/theory/principle ... , which means that/which suggests that/meaning that ... / which is a ...
+
+Transition: In the lecture, the professor uses/draws on/gives us/provides us/offers us one/two examples to explain/demonstrate/clarify this definition/theory.
+
+The first example is...
+
+The second example is...
+
+The professor also mentions that ... （非必要）
