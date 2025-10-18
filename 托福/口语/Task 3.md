@@ -22,4 +22,17 @@ R(45s) - L - S
 
 ==听力基本要素：对象 $\to$ 过程 $\to$ 结果==
 
+## 答题模板
 
+Tips:
+- combine R & L
+- No personal ideas
+- 通常现代时，偶尔过去时（例子）
+- can paraphrase
+
+R 15s  + L 45s
+R 2 L 8
+
+1. R: definition + exlplanation
+2. L: example 
+3. conclusion 可有可无
