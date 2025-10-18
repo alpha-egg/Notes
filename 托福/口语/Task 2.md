@@ -1,3 +1,6 @@
+# Task 2
+
+
 ## 阅读部分
 
 类型：
@@ -36,3 +39,8 @@
 ### 符号简写
 
 - expensive: 
+
+
+### 答题样例
+
+The university plans to stop its free bus service because few students ride the bus and the bus operation is expensive. **Also,** the money saved will be used to expand the parking lot on campus. The man disagrees with the change. **First**, he says the current bus routes are out of date because they only go through neighborhoods that are too expensive for students to live in. If the routes were changed, there would be plenty of students riding the bus. **Second**, he thinks the expansion of the parking lot will encourage more students to drive, which will add noise and traffic and that will require even more parking space in the end. So the university should make it easier for students to take the bus, not the other way around.
