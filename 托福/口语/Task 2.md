@@ -24,4 +24,9 @@
 阅读 2 + 听力 8
 ### 阅读
 
-1. 
+1.  The reading passage describes a notice about doing/ that +because
+
+
+### 听力
+
+1. In the listening passage the man/w
