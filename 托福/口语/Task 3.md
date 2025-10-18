@@ -7,7 +7,7 @@ R(45s) - L - S
 ## 阅读部分
 
 1. 记定义句：标题/第一二句 （不用全记，主谓宾）
-	- 下定义的信号词：be known as ... , be called 
+	- 下定义的信号词：be known as ... , be called, be a + 抽象名词
 	- 看到 This 就往前看
 2. 通读剩下部分
 
