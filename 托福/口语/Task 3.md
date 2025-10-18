@@ -7,9 +7,12 @@ R(45s) - L - S
 ## 阅读部分
 
 1. 记定义句：标题/第一二句 （不用全记，主谓宾）
-	- 下定义的信号词：be known as ... , be called, be a + 抽象名词
+	- 下定义的信号词：
+		- be known as ... , be called, defined, concerned with, 
+		- be a + 抽象名词:form, stratergy, process, method, term
 	- 看到 This 就往前看
-2. 通读剩下部分
+2. 通读剩下部分，可以记例子
+
 
 概念句选择：
 - 短：用时更短
