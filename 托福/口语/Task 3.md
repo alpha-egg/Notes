@@ -16,10 +16,14 @@ R(45s) - L - S
 - history
 ## 阅读部分
 
+有定义句找定义句，没有找关系
+
+==如果标题有两个名词：找关系==
+
 1. 记定义句：标题/第一二句 （不用全记，主谓宾）
 	- 下定义的信号词：
 		- be known as ... , be called, defined, concerned with, 
-		- be a + 抽象名词:form, strategy, process, method, term
+		- be a + 抽象名词：form, strategy, process, method, term
 	- 看到 This 就往前看
 2. 通读剩下部分，可以记例子、理由
 
@@ -67,4 +71,4 @@ The professor also mentions that ... （非必要）
 
 verbal and nonverbal communication
 
-non facial expressions, hand gestures, body movements, tone of voice,
+non: facial expressions, hand gestures, body movements, tone of voice,
