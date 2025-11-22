@@ -64,6 +64,8 @@ R 2 L 8
 
 ### Template
 
+In this set of materials, the reading passage introduces two definition A and B and relationship between them.
+
 In this set of materials, the reading passage introduces a definition/theory/principle ... , which means that/which suggests that/meaning that ... / which is a ...
 
 Transition: In the lecture, the professor uses/draws on/gives us/provides us/offers us one/two examples to explain/demonstrate/clarify this definition/theory.
@@ -83,7 +85,11 @@ The professor also mentions that ... （非必要）
 
 READING
 
-When we speak with other people face to face the nonverbal signals we give often communicate as much as, or more than the words we utter.
 
 
-In this set of materials, the reading passage introduces verbal and nonverbal communication, which
+
+In this set of materials, the reading passage introduces two definitoinverbal and nonverbal communication. When we speak with other people face to face the nonverbal signals we give often communicate as much as, or more than the words we utter.
+
+In the lecture, the professor uses 2 examples to explain the relationship between verbal and nonverbal communication.
+
+
