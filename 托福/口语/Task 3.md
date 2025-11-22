@@ -20,6 +20,8 @@ R(45s) - L - S
 
 ==如果标题有两个名词：找关系==
 
+**如果阅读中出现两个例子，听力中会出现**
+
 1. 记定义句：标题/第一二句 （不用全记，主谓宾）
 	- 下定义的信号词：
 		- be known as ... , be called, defined, concerned with, 
@@ -70,6 +72,10 @@ The professor also mentions that ... （非必要）
 
 
 ## 真题练习
+
+### 两者关系
+
+READING
 
 When we speak with other people face to face the nonverbal signals we give often communicate as much as, or more than the words we utter.
 
