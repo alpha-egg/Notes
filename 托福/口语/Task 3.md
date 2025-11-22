@@ -111,8 +111,8 @@ LISTENING
 
 high school, was addicted to / indulge in video game and he failed in his chemistry. 
 
-want good job, do well in  
-
+He wanted a good job and thus he should do well in  chemistry, but he knew it' s impossible for him to give up video game. So he changed his perspective. Chemistry was his only bad subject, and he wanted to be a socialist rather than a 
+chemist. Therefore, he needn't do well in chemistry, 
 ## 单词积累
 
 - hammer 榔头，锤子
