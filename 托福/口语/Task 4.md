@@ -7,6 +7,8 @@
 
 Structure: 1 + 2
 
+### 1
+
 - One topic:
 	- purpose/object/result/procedure...
 	- controlled experiment
@@ -29,19 +31,34 @@ Structure: 1 + 2
 	2. ==例子==
 5. Conclusion
 
-af
-1. o 
-
 TIP: ==重点是例子==
+
+名词加动词
+
+---
+### 2
+1. Introduction/Background
+2. aim of experiment
+3. Part 1 + procedure
+4. Part 2 + procedure
+5. Conclusion
+
+TIP: ==重点记动词==
+
+实验
+- 常态化实验
+- 反转实验
+---
 
 **记笔记技巧：**
 
 - 通常不记解释性信息
+- 减少单词全拼
+- 减少主体词次数
+- 减少虚词（除非不知道搭配）
 
 ---
-实验
-- 常态化实验
-- 反转实验
+
 ## 单词积累
 
 - established 著名的
