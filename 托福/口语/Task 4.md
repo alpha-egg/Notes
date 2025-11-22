@@ -36,4 +36,4 @@ Structure: 1 + 2
 
 - established 著名的
 - franchising 加盟
-- 
+- tape 磁带
