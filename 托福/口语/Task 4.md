@@ -30,4 +30,5 @@ Structure: 1 + 2
 ## 单词积累
 
 - established 著名的
-- franchising
+- franchising 加盟
+- 
