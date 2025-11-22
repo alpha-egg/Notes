@@ -20,6 +20,8 @@ R(45s) - L - S
 - 分行（纵向）
 ## 阅读部分
 
+==标题定位==
+
 有定义句找定义句，没有找关系
 
 ==如果标题有两个名词：找关系==
@@ -87,9 +89,6 @@ The professor also mentions that ... （非必要）
 
 READING
 
-
-
-
 In this set of materials, the reading passage introduces two definitions verbal and nonverbal communication. When we speak with other people face to face the nonverbal signals we give often communicate as much as, or more than the words we utter.
 
 In the lecture, the professor uses 2 examples to explain the relationship between verbal and nonverbal communication.
@@ -121,3 +120,7 @@ chemist. Therefore, he needn't do well in all classes like chemistry. He only ne
 - smash 打碎，撞击
 - contort 扭曲
 
+
+作业：
+
+TPO5
