@@ -17,6 +17,11 @@ Structure: 1 + 2
 1. 引入（1-4 句）
 	1. 回顾
 	2. 铺垫
+2. 主旨句：
+	- Today
+	- Now
+	- Let's follow 
+3. Point 1
 
 
 - established 著名的
