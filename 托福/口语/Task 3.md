@@ -95,6 +95,7 @@ In the lecture, the professor uses 2 examples to explain the relationship betwee
 smash thumb with 
 
 
+
 ## 单词积累
 
 - hammer 榔头，锤子
@@ -102,4 +103,3 @@ smash thumb with
 - contort 扭曲
 
 
-contradiction between actions and beliefs cause a kind of mental discomfort known as cognitive dissonance
