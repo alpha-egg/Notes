@@ -99,9 +99,17 @@ smash thumb with
 
 ### 2
 
+READING
+
 contradiction between actions and beliefs cause a kind of mental discomfort known as cognitive dissonance
 
 cognitive dissonance which is a kind of mental discomfort caused by contradiction between actions and beliefs
+
+LISTENING
+
+high school, was addicted to / indulge in video game
+
+want good job, do well in  
 
 ## 单词积累
 
