@@ -109,7 +109,7 @@ cognitive dissonance which is a kind of mental discomfort caused by contradictio
 
 LISTENING
 
-high school, was addicted to / indulge in video game
+high school, was addicted to / indulge in video game and he failed in his chemistry. 
 
 want good job, do well in  
 
