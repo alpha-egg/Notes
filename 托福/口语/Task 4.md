@@ -72,6 +72,10 @@ TIP: ==重点记动词==
 - The professor also mentions/says that ... （非必要）
 - So, these are the two Ys of X presented by the professor.(5s)
 
+
+- In this lecture, the professor introduces a principle that
+- He/ She uses a controlled experiment to explain this principle.(10s)
+
 ---
 
 In the listening, the professor talks about two experiments of babies' empathy. The first experiment played the type of one baby's crying for another baby. When the baby heard the crying, he started to cry. 
