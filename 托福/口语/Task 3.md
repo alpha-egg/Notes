@@ -4,8 +4,16 @@ R(45s) - L - S
 
 ==不用强求看懂，重点在记==
 
-常见
+托福口语真经 p69
 
+常见话题：
+
+- psychological
+- sociology
+- business
+- biology
+- art
+- history
 ## 阅读部分
 
 1. 记定义句：标题/第一二句 （不用全记，主谓宾）
@@ -55,3 +63,8 @@ The second example is...
 The professor also mentions that ... （非必要）
 
 作业： TPO2 TPO6 task 3
+
+
+verbal and nonverbal communication
+
+non facial expressions, hand gestures, body movements, tone of voice,
