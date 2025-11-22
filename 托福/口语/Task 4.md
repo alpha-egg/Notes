@@ -26,6 +26,8 @@ Structure: 1 + 2
 	2. ==例子==
 4. Point 2
 
+==重点是例子==
 ## 单词积累
 
 - established 著名的
+- franchising
