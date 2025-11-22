@@ -14,10 +14,10 @@ Structure: 1 + 2
 	- methods...
 	- groups
 
-1. 引入（1-4 句）
+1. Introduction/Background（1-4 句）
 	1. 回顾
 	2. 铺垫
-2. 主旨句：
+2. Topic Sentence：
 	- Today
 	- Now
 	- Let's follow 
@@ -25,13 +25,23 @@ Structure: 1 + 2
 	1. 名称+解释
 	2. ==例子==
 4. Point 2
+	1. 名称+解释
+	2. ==例子==
+5. Conclusion
 
-==重点是例子==
+af
+1. o 
+
+TIP: ==重点是例子==
 
 **记笔记技巧：**
 
 - 通常不记解释性信息
-- 
+
+---
+实验
+- 常态化实验
+- 反转实验
 ## 单词积累
 
 - established 著名的
