@@ -12,3 +12,8 @@ Structure: 1 + 2
 - Two parts
 	- methods...
 	- groups
+
+1. 引入（1-4 句）
+	1. 回顾
+	2. 铺垫
+2. 
