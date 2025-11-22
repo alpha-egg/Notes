@@ -14,6 +14,10 @@ R(45s) - L - S
 - biology
 - art
 - history
+
+笔记技巧：
+
+- 分行（纵向）
 ## 阅读部分
 
 有定义句找定义句，没有找关系
@@ -82,4 +86,4 @@ READING
 When we speak with other people face to face the nonverbal signals we give often communicate as much as, or more than the words we utter.
 
 
-
+In this set of materials, the reading passage introduces verbal and nonverbal communication, which
