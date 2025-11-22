@@ -69,6 +69,7 @@ The professor also mentions that ... （非必要）
 作业： TPO2 TPO6 task 3
 
 
-verbal and nonverbal communication
+## 真题练习
 
-non: facial expressions, hand gestures, body movements, tone of voice,
+When we speak with other people face to face the nonverbal signals we give often communicate as much as, or more than the words we utter.
+
