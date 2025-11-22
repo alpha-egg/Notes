@@ -109,10 +109,12 @@ cognitive dissonance which is a kind of mental discomfort caused by contradictio
 
 LISTENING
 
+The professor uses his own experience ...
+
 high school, was addicted to / indulge in video game and he failed in his chemistry. 
 
 He wanted a good job and thus he should do well in  chemistry, but he knew it' s impossible for him to give up video game. So he changed his perspective. Chemistry was his only bad subject, and he wanted to be a socialist rather than a 
-chemist. Therefore, he needn't do well in chemistry, 
+chemist. Therefore, he needn't do well in all classes like chemistry. He only need do well in classes  related to his future career. At last, he resolve the contradiction between his actions and beliefs.
 ## 单词积累
 
 - hammer 榔头，锤子
