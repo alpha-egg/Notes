@@ -99,11 +99,13 @@ smash thumb with
 
 ### 2
 
+TPO3
+
 READING
 
 contradiction between actions and beliefs cause a kind of mental discomfort known as cognitive dissonance
 
-cognitive dissonance which is a kind of mental discomfort caused by contradiction between actions and beliefs
+cognitive dissonance which is a kind of mental discomfort caused by contradictions between actions and beliefs
 
 LISTENING
 
