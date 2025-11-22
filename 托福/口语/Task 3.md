@@ -20,7 +20,9 @@ R(45s) - L - S
 
 ==如果标题有两个名词：找关系==
 
-**如果阅读中出现两个例子，听力中会出现**
+**如果阅读中出现的两个例子，听力中会出现**
+
+**通过阅读来判断听力的重点：听力和阅读的重点基本上一一对应**
 
 1. 记定义句：标题/第一二句 （不用全记，主谓宾）
 	- 下定义的信号词：
@@ -78,4 +80,6 @@ The professor also mentions that ... （非必要）
 READING
 
 When we speak with other people face to face the nonverbal signals we give often communicate as much as, or more than the words we utter.
+
+
 
