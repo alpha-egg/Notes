@@ -96,3 +96,8 @@ smash thumb with
 
 
 ## 单词积累
+
+- hammer 榔头，锤子
+- smash 打碎，撞击
+- contort 扭曲
+- 
