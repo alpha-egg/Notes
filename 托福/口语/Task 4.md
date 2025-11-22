@@ -22,8 +22,10 @@ Structure: 1 + 2
 	- Now
 	- Let's follow 
 3. Point 1
-	1. 概念
+	1. 名称+解释
 	2. ==例子==
+4. Point 2
 
+## 单词积累
 
 - established 著名的
