@@ -5,6 +5,8 @@
 ==所有抽象概念后面一定会有解释，不用慌==
 ## Lecture
 
+**听清楚讲座的类型**：可以猜测单词
+
 Structure: 1 + 2
 
 ### 1
@@ -56,9 +58,14 @@ TIP: ==重点记动词==
 - 减少单词全拼
 - 减少主体词次数
 - 减少虚词（除非不知道搭配）
+- 不记 signal words ，记后面的关键词
 
 ---
 
+##  Template
+
+- **Topic:** In the listening, the professor talks about ... (2 Ys of X). (5-10s)
+- 
 ## 单词积累
 
 - established 著名的
