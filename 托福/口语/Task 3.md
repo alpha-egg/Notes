@@ -81,7 +81,9 @@ The professor also mentions that ... （非必要）
 
 ## 真题练习
 
-### 两者关系(TPO4)
+### 1
+
+两者关系(TPO4)
 
 READING
 
@@ -95,11 +97,15 @@ In the lecture, the professor uses 2 examples to explain the relationship betwee
 smash thumb with 
 
 
+### 2
+
+contradiction between actions and beliefs cause a kind of mental discomfort known as cognitive dissonance
+
+cognitive dissonance which is a kind of mental discomfort caused by contradiction between actions and beliefs
 
 ## 单词积累
 
 - hammer 榔头，锤子
 - smash 打碎，撞击
 - contort 扭曲
-
 
