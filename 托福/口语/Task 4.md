@@ -64,8 +64,13 @@ TIP: ==重点记动词==
 
 ##  Template
 
-- **Topic:** In the listening, the professor talks about ... (2 Ys of X). (5-10s)
-- 
+- **Topic:** In the listening, the professor talks about ... (two Ys of X). (5-10s)
+- The first ... is (called/about) 名词, (which means that) ... 解释
+- For example, ...(25 s)
+- The second ... is 名词, (which means that) ... 解释
+- For example, ...(25s)
+- The professor also mentions/says that ... （非必要）
+- So, these are the two Ys of X presented by the professor.(5s)
 ## 单词积累
 
 - established 著名的
