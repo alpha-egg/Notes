@@ -64,6 +64,8 @@ TIP: ==重点记动词==
 
 ##  Template
 
+### 1
+
 - **Topic:** In the listening, the professor talks about ... (two Ys of X). (5-10s)
 - The first ... is (called/about) 名词, (which means that) ... 解释
 - For example, ...(25 s)
@@ -72,15 +74,17 @@ TIP: ==重点记动词==
 - The professor also mentions/says that ... （非必要）
 - So, these are the two Ys of X presented by the professor.(5s)
 
+### 1
 
-- In this lecture, the professor introduces a principle that
-- He/ She uses a controlled experiment to explain this principle.(10s)
+- In this lecture, the professor introduces a principle that ... 
+- He/ She uses a controlled experiment to explain this principle.(10s).
+- At first, ... were required to ...
+- The first (group)... was ... 实验过程
+- However / Then, the second ... was ... 实验过程
+- So, according to this experiment, we can know that ...
 
 ---
 
-In the listening, the professor talks about two experiments of babies' empathy. The first experiment played the type of one baby's crying for another baby. When the baby heard the crying, he started to cry. 
-
-In the listening, 
 ## 单词积累
 
 - established 著名的
