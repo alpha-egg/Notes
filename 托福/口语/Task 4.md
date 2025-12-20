@@ -40,6 +40,8 @@ TIP: ==重点是例子==
 ---
 ### 2
 1. Introduction/Background
+	- 上节课的概述
+	- 引出（兴趣）
 2. aim of experiment
 3. Part 1 + procedure
 4. Part 2 + procedure
